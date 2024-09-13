@@ -16,4 +16,4 @@ The duration of the gate pulse (t2) is essential—if it’s too short, the TRIA
 ![image](https://github.com/user-attachments/assets/e9000cc4-aaa6-4c2d-8d90-78595d7df12d)
 * Ref: O. Pinzon-Ardila
 
-As a first result. using this circuit we can control AC phase for dimmer the intensity of light. check attach video for more info.
+As a first result. using this circuit we can control AC phase for dimmer the intensity of light. *check attach video for more info.*
