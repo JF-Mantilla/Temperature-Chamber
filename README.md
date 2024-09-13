@@ -11,7 +11,9 @@ The zero-crossing detection generates pulses that the Arduino uses to trigger th
 The duration of the gate pulse (t2) is essential—if it’s too short, the TRIAC won't trigger. By chopping parts of the AC waveform, we effectively control the power delivered, similar to Pulse Width Modulation (PWM) but for AC signals.
 
 ![image](https://github.com/user-attachments/assets/e4be1e3d-4dd4-41e4-b73d-1e7cd7dce539)
-Ref: AC phase control - Arduino playground
+* Ref: AC phase control - Arduino playground
 
 ![image](https://github.com/user-attachments/assets/e9000cc4-aaa6-4c2d-8d90-78595d7df12d)
-Ref: O. Pinzon-Ardila
+* Ref: O. Pinzon-Ardila
+
+As a first result. using this circuit we can control AC phase for dimmer the intensity of light. check attach video for more info.
