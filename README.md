@@ -2,6 +2,18 @@
 
 These heating lamps, for the use in which I discovered them, are used to dry automotive paint on different surfaces. However if we want to control this temperature we need to control the intensity of the lamp. However these lamps work directly connected to the AC signal and to control the intensity of these we need to control the input signal by applying phase control techniques.
 
+## Results
+It was possible to control the internal temperature of the chamber between 25-79 degrees Celsius. 
+![image](https://github.com/user-attachments/assets/c6fe0657-31e0-4e0d-93cc-3e984f79f0ab)
+
+However, some points for improvement are: 
+* Cooling is done passively by keeping the lamps off.
+* The stress on the controller is very strong, it may affect the performance of the actuators in the future or prolong the lifetime. 
+
+This controller stress generates an effect similar to the Upside down Christmas lights in the famous Stranger Things series.
+![image](https://github.com/user-attachments/assets/5557cb83-1099-4cb0-90b4-8e900eb68dd8)
+
+
 ## First approach - Prototype
 
 The circuit includes an opto-isolated zero-crossing detector and a trigger circuit for the TRIAC. Opto-isolators are crucial for separating low voltage signals from high-power circuits, ensuring safety.
