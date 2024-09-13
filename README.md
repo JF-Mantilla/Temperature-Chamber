@@ -17,3 +17,13 @@ The duration of the gate pulse (t2) is essential—if it’s too short, the TRIA
 * Ref: O. Pinzon-Ardila
 
 As a first result. using this circuit we can control AC phase for dimmer the intensity of light. *check attach video for more info.*
+
+
+## Second approach
+
+In this part, we decided to move the components from a breadboard to a PCB, create the mechanical structure and add some temperature sensors in order to apply a closed-loop control system.
+
+### PCB design
+![image](https://github.com/user-attachments/assets/dcb2cd50-2aa9-4c01-8cc6-625796464af4)
+![image](https://github.com/user-attachments/assets/7c212a73-d338-497a-8873-dd89cae61372)
+
